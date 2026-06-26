@@ -1,0 +1,20 @@
+2026-06-26 10:00:01 INFO - Host 192.168.1.1 - Ping response OK: 2ms
+2026-06-26 10:00:03 INFO - Camera_Portaria_01 (192.168.1.50) - Video stream stable at 30fps
+2026-06-26 10:00:05 DEBUG - Service dhcpd running on port 67 - No new leases requested
+2026-06-26 10:00:12 INFO - Host 192.168.1.1 - Ping response OK: 3ms
+2026-06-26 10:00:15 INFO - Camera_Corredor_02 (192.168.1.51) - Video stream stable at 30fps
+2026-06-26 10:00:22 CRITICAL - Camera_Armazem_04 (192.168.1.53) - CONNECTION TIMEOUT (No response for 15s)
+2026-06-26 10:00:23 INFO - Host 192.168.1.1 - Ping response OK: 1ms
+2026-06-26 10:00:25 INFO - Camera_Portaria_01 (192.168.1.50) - Video stream stable at 30fps
+2026-06-26 10:00:32 DEBUG - Switch_Central_Chimoio - VLAN 10 traffic normal
+2026-06-26 10:00:40 ERROR - Router_Switch_02 - Packet loss detected > 45% on interface eth1
+2026-06-26 10:00:42 INFO - Host 192.168.1.1 - Ping response OK: 2ms
+2026-06-26 10:00:45 INFO - Camera_Corredor_02 (192.168.1.51) - Video stream stable at 30fps
+2026-06-26 10:00:52 DEBUG - Backup system synchronized successfully with local NAS
+2026-06-26 10:01:02 INFO - Host 192.168.1.1 - Ping response OK: 4ms
+2026-06-26 10:01:05 FAIL - Authentication failed for user 'admin_test' from IP 10.0.0.155 (Unauthorized access)
+2026-06-26 10:01:12 INFO - Camera_Portaria_01 (192.168.1.50) - Video stream stable at 30fps
+2026-06-26 10:01:22 INFO - Host 192.168.1.1 - Ping response OK: 2ms
+2026-06-26 10:01:30 DISCONNECTED - UPS_ServerRoom_01 - Lost connection to network management card
+2026-06-26 10:01:32 INFO - Camera_Corredor_02 (192.168.1.51) - Video stream stable at 30fps
+2026-06-26 10:01:42 INFO - Host 192.168.1.1 - Ping response OK: 2ms
