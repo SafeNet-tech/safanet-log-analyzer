@@ -1,1 +1,0 @@
-# safanet-log-analyzer
