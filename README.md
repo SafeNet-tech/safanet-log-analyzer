@@ -25,7 +25,7 @@ Este utilitário é customizado e calibrado sob medida para ler o formato espec�
 
 Para integrar esta automação na sua operação técnica ou solicitar uma filtragem de teste gratuita com os seus próprios ficheiros de log, fale diretamente com o nosso departamento técnico:
 
-👉 [**Requisitar Demonstração via WhatsApp Business**](https://wa.me/258XXXXXXXXX?text=Olá,%20gostaria%20de%20testar%20o%20SafeNet%20Log%20Analyzer%20na%20minha%20empresa.)
+👉 [**Requisitar Demonstração via WhatsApp Business**](https://wa.me/258871880305text=Olá,%20gostaria%20de%20testar%20o%20SafeNet%20Log%20Analyzer%20na%20minha%20empresa.)
 
 ---
 Developed by **Agência SafeNet | Automação & Dados** - *Moçambique*
